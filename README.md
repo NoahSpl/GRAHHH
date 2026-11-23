@@ -2,6 +2,7 @@
 Betaal me hiervoor
 
 De game: Lobotomy Corporation
+
 Vraag 1: Wat doe je in het spel?
 Antwoord: Abnormalities (monsters vrijwel) researchen en meer over hen te leren terwijl je door het research energie genereert om een quota te bereiken
 
